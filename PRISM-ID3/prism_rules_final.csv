@@ -1,0 +1,37 @@
+target,rule,rule_string,coverage,errors
+democrat,"[('physician-fee-freeze', 'n'), ('adoption-of-the-budget-resolution', 'y')]",IF (physician-fee-freeze=n) AND (adoption-of-the-budget-resolution=y),149,0
+democrat,"[('el-salvador-aid', 'n'), ('duty-free-exports', 'y')]",IF (el-salvador-aid=n) AND (duty-free-exports=y),100,0
+republican,"[('physician-fee-freeze', 'y'), ('synfuels-corporation-cutback', 'n'), ('adoption-of-the-budget-resolution', 'n'), ('education-spending', 'y')]",IF (physician-fee-freeze=y) AND (synfuels-corporation-cutback=n) AND (adoption-of-the-budget-resolution=n) AND (education-spending=y),79,0
+democrat,"[('physician-fee-freeze', 'n'), ('synfuels-corporation-cutback', 'y')]",IF (physician-fee-freeze=n) AND (synfuels-corporation-cutback=y),77,0
+republican,"[('physician-fee-freeze', 'y'), ('immigration', 'y'), ('synfuels-corporation-cutback', 'n')]",IF (physician-fee-freeze=y) AND (immigration=y) AND (synfuels-corporation-cutback=n),55,0
+republican,"[('physician-fee-freeze', 'y'), ('adoption-of-the-budget-resolution', 'n'), ('immigration', 'y')]",IF (physician-fee-freeze=y) AND (adoption-of-the-budget-resolution=n) AND (immigration=y),53,0
+republican,"[('physician-fee-freeze', 'y'), ('export-administration-act-south-africa', 'y'), ('superfund-right-to-sue', 'y'), ('adoption-of-the-budget-resolution', 'n')]",IF (physician-fee-freeze=y) AND (export-administration-act-south-africa=y) AND (superfund-right-to-sue=y) AND (adoption-of-the-budget-resolution=n),43,0
+republican,"[('physician-fee-freeze', 'y'), ('export-administration-act-south-africa', 'y'), ('immigration', 'y')]",IF (physician-fee-freeze=y) AND (export-administration-act-south-africa=y) AND (immigration=y),40,0
+democrat,"[('physician-fee-freeze', 'n'), ('superfund-right-to-sue', 'y')]",IF (physician-fee-freeze=n) AND (superfund-right-to-sue=y),36,0
+republican,"[('physician-fee-freeze', 'y'), ('synfuels-corporation-cutback', 'n'), ('export-administration-act-south-africa', 'n')]",IF (physician-fee-freeze=y) AND (synfuels-corporation-cutback=n) AND (export-administration-act-south-africa=n),30,0
+republican,"[('physician-fee-freeze', 'y'), ('export-administration-act-south-africa', 'y'), ('water-project-cost-sharing', 'n')]",IF (physician-fee-freeze=y) AND (export-administration-act-south-africa=y) AND (water-project-cost-sharing=n),28,0
+democrat,"[('synfuels-corporation-cutback', 'y'), ('adoption-of-the-budget-resolution', 'y'), ('anti-satellite-test-ban', 'n')]",IF (synfuels-corporation-cutback=y) AND (adoption-of-the-budget-resolution=y) AND (anti-satellite-test-ban=n),19,0
+democrat,"[('physician-fee-freeze', 'n'), ('water-project-cost-sharing', 'abstain')]",IF (physician-fee-freeze=n) AND (water-project-cost-sharing=abstain),19,0
+republican,"[('physician-fee-freeze', 'y'), ('synfuels-corporation-cutback', 'n'), ('anti-satellite-test-ban', 'y')]",IF (physician-fee-freeze=y) AND (synfuels-corporation-cutback=n) AND (anti-satellite-test-ban=y),18,0
+republican,"[('physician-fee-freeze', 'y'), ('synfuels-corporation-cutback', 'n'), ('handicapped-infants', 'y')]",IF (physician-fee-freeze=y) AND (synfuels-corporation-cutback=n) AND (handicapped-infants=y),17,0
+democrat,"[('adoption-of-the-budget-resolution', 'y'), ('immigration', 'n'), ('anti-satellite-test-ban', 'n')]",IF (adoption-of-the-budget-resolution=y) AND (immigration=n) AND (anti-satellite-test-ban=n),17,0
+republican,"[('physician-fee-freeze', 'y'), ('water-project-cost-sharing', 'abstain')]",IF (physician-fee-freeze=y) AND (water-project-cost-sharing=abstain),13,0
+republican,"[('adoption-of-the-budget-resolution', 'n'), ('education-spending', 'abstain')]",IF (adoption-of-the-budget-resolution=n) AND (education-spending=abstain),9,0
+democrat,"[('education-spending', 'n'), ('export-administration-act-south-africa', 'abstain'), ('anti-satellite-test-ban', 'n')]",IF (education-spending=n) AND (export-administration-act-south-africa=abstain) AND (anti-satellite-test-ban=n),9,0
+republican,"[('physician-fee-freeze', 'y'), ('aid-to-nicaraguan-contras', 'abstain')]",IF (physician-fee-freeze=y) AND (aid-to-nicaraguan-contras=abstain),8,0
+republican,"[('physician-fee-freeze', 'y'), ('duty-free-exports', 'abstain')]",IF (physician-fee-freeze=y) AND (duty-free-exports=abstain),8,0
+republican,"[('physician-fee-freeze', 'y'), ('synfuels-corporation-cutback', 'abstain')]",IF (physician-fee-freeze=y) AND (synfuels-corporation-cutback=abstain),6,0
+republican,"[('adoption-of-the-budget-resolution', 'n'), ('religious-groups-in-schools', 'n'), ('duty-free-exports', 'n'), ('water-project-cost-sharing', 'n')]",IF (adoption-of-the-budget-resolution=n) AND (religious-groups-in-schools=n) AND (duty-free-exports=n) AND (water-project-cost-sharing=n),6,0
+democrat,"[('el-salvador-aid', 'n'), ('water-project-cost-sharing', 'y'), ('adoption-of-the-budget-resolution', 'n')]",IF (el-salvador-aid=n) AND (water-project-cost-sharing=y) AND (adoption-of-the-budget-resolution=n),6,0
+democrat,"[('synfuels-corporation-cutback', 'y'), ('superfund-right-to-sue', 'abstain')]",IF (synfuels-corporation-cutback=y) AND (superfund-right-to-sue=abstain),5,0
+democrat,"[('physician-fee-freeze', 'n'), ('anti-satellite-test-ban', 'abstain')]",IF (physician-fee-freeze=n) AND (anti-satellite-test-ban=abstain),5,0
+republican,"[('physician-fee-freeze', 'y'), ('crime', 'abstain')]",IF (physician-fee-freeze=y) AND (crime=abstain),5,0
+democrat,"[('physician-fee-freeze', 'abstain'), ('synfuels-corporation-cutback', 'y')]",IF (physician-fee-freeze=abstain) AND (synfuels-corporation-cutback=y),4,0
+republican,"[('physician-fee-freeze', 'y'), ('anti-satellite-test-ban', 'abstain')]",IF (physician-fee-freeze=y) AND (anti-satellite-test-ban=abstain),4,0
+democrat,"[('handicapped-infants', 'abstain'), ('mx-missile', 'y')]",IF (handicapped-infants=abstain) AND (mx-missile=y),4,0
+democrat,"[('synfuels-corporation-cutback', 'y'), ('adoption-of-the-budget-resolution', 'abstain')]",IF (synfuels-corporation-cutback=y) AND (adoption-of-the-budget-resolution=abstain),3,0
+republican,"[('immigration', 'abstain'), ('mx-missile', 'abstain')]",IF (immigration=abstain) AND (mx-missile=abstain),3,0
+republican,"[('export-administration-act-south-africa', 'n'), ('water-project-cost-sharing', 'n'), ('handicapped-infants', 'y'), ('physician-fee-freeze', 'y')]",IF (export-administration-act-south-africa=n) AND (water-project-cost-sharing=n) AND (handicapped-infants=y) AND (physician-fee-freeze=y),3,0
+democrat,"[('synfuels-corporation-cutback', 'y'), ('export-administration-act-south-africa', 'n'), ('handicapped-infants', 'n')]",IF (synfuels-corporation-cutback=y) AND (export-administration-act-south-africa=n) AND (handicapped-infants=n),2,0
+democrat,"[('superfund-right-to-sue', 'abstain'), ('education-spending', 'n'), ('adoption-of-the-budget-resolution', 'n')]",IF (superfund-right-to-sue=abstain) AND (education-spending=n) AND (adoption-of-the-budget-resolution=n),1,0
+republican,"[('physician-fee-freeze', 'y'), ('el-salvador-aid', 'abstain')]",IF (physician-fee-freeze=y) AND (el-salvador-aid=abstain),1,0
